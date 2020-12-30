@@ -1,4 +1,4 @@
-# node-red-contrib-plate-recognizer
+# How To Get ALPR, ANPR on Node-RED
 Get high-accuracy, developer-friendly **automatic license plate recognition** ([ALPR](https://platerecognizer.com/?utm_source=github&amp;utm_medium=website)) or automatic number plate recognition ([ANPR](https://platerecognizer.com/?utm_source=github&amp;utm_medium=website)) on Node-RED!
 
 Our machine-learning software:
